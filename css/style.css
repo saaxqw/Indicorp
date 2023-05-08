@@ -261,7 +261,7 @@ ul {
         flex-direction: column;
         align-items: center;
 
-        background: url(../images/cover/adaptive_cover.svg);
+        background: url(images/cover/adaptive_cover.svg);
     }
 
     .header-adaptive-row-wrapper {
@@ -960,7 +960,7 @@ ul {
 .section-3-content-left {
     width: 597px;
     height: 442px;
-    background: url(../images/cover/media_cover.png);
+    background: url(images/cover/media_cover.png);
     background-position: center;
     display: flex;
     align-items: center;
